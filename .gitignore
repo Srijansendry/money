@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+.env
+.env.local
+*.log
+**/*.log
+.DS_Store
+**/.DS_Store
+.tsbuildinfo
+**/.tsbuildinfo
+dist/
+**/dist/
+.local/
+*.zip
